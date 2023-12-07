@@ -12,5 +12,3 @@
   <a href="https://www.youtube.com/channel/UC2Ja5kVLWMuOf5Wohiv-bSA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/frosty7sh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Frosty7sh's Stats](https://github-readme-stats.vercel.app/api?username=Frosty7sh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
